@@ -1,0 +1,39 @@
+{
+    "articles": [
+      {
+        "id": "3",
+        "title": "HTML",
+        "msg": "HTML is at the core of every web page, regardless the complexity of a site or number of technologies involved. It's an essential skill for any web professional. It's the starting point for anyone learning how to create content for the web. And, luckily for us, it's surprisingly easy to learn.HTML stands for HyperText Markup Language.  means that, rather than using a programming language to perform functions, HTML uses tags to identify different types of content and the purposes they each serve to the webpage."
+      },
+      {
+        "id": "4",
+        "title": "CSS",
+        "msg": "CSS stands for Cascading Style Sheets. This programming language dictates how the HTML elements of a website should actually appear on the frontend of the page.If HTML is the drywall, CSS is the paint.Whereas HTML was the basic structure of your website, CSS is what gives your entire website its style. Those slick colors, interesting fonts, and background images? All thanks to CSS. This language affects the entire mood and tone of a web page, making it an incredibly powerful tool -- and an important skill for web developers to learn. It's also what allows websites to adapt to different screen sizes and device types.To show you what CSS does to a website, look at the following two screenshots. The first screenshot is my colleague's blog post, but shown in Basic HTML, and the second screenshot is that same blog post with HTML and CSS."
+      },
+      {
+        "id": "5",
+        "title": "JavaScript",
+        "msg": "JavaScript is a more complicated language than HTML or CSS, and it wasn't released in beta form until 1995. Nowadays, JavaScript is supported by all modern web browsers and is used on almost every site on the web for more powerful and complex functionality.JavaScript is a logic-based programming language that can be used to modify website content and make it behave in different ways in response to a user's actions. Common uses for JavaScript include confirmation boxes, calls-to-action, and adding new identities to existing information.In short, JavaScript is a programming language that lets web developers design interactive sites."
+      },
+      {
+        "id": "6",
+        "title": "DHTML Introduction",
+        "msg": "DHTML, or Dynamic HTML, is a technology that differs from traditional HTML. DHTML combines HTML, CSS, JavaScript, and the Document Object Model (DOM) to create dynamic content. It uses the Dynamic Object Model to modify settings, properties, and methods. Scripting is also an essential component of DHTML, which was part of earlier computing trends. It is supported by some versions of Netscape Navigator and Internet Explorer 4.0 and higher."
+      },
+      {
+        "id": "7",
+        "title": "React",
+        "msg": "React is a JavaScript library that offers new syntax while still being powered by JavaScript, making it faster and easier to create web applications due to its declarative and component-based nature.Originally designed by Facebook to enhance performance and maintenance for their internal use, it's now an open-source project with a vast community of the frontend developers, and is among the most popular JS tools."
+      },
+      {
+        "id": "",
+        "title": "Angular",
+        "msg": "Angular is a full-fledged JavaScript-based frontend framework supported by Google, and the modularity and component-based approach it provides have garnered a strong community among frontend developers worldwide.Its simplicity makes this framework perfect for single-page applications, and though some developers say that it's a bit harder to learn Angular than React, it's definitely worth it as there is a high demand in the market for experts in this technology, with Angular developers demand showing predicted growth of approximately 31% between 2016 and 2026.t"
+      },
+      {
+        "id": "",
+        "title": "Vue",
+        "msg": "Vue is considered one of the best frontend options for single-page web applications, and is a JavaScript framework designed for creating user interfaces that provides a declarative and component-based programming experience, similar to React and Angular, with millions of weekly downloads on npm, demonstrating its popularity in the market."
+      }
+    ]
+  }
